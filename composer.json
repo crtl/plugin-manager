@@ -1,0 +1,15 @@
+{
+    "name": "crtl/plugin-manager",
+    "autoload": {
+        "psr-4": {
+            "Crtl\\PluginManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marvin Petker",
+            "email": "mp@borntocreate.de"
+        }
+    ],
+    "require": {}
+}
